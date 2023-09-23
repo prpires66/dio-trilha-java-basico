@@ -3,7 +3,7 @@
 
 #### Autor: [Paulo Pires](https://github.com/prpires66)
 
-## Descrição do Desafio [(fonte)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+## Desafio Sintaxe - Descrição [(fonte)](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
